@@ -1,0 +1,77 @@
+# Created at 2022-09-01T11:21:34.388
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2022-09-01T11:21:34.670
+Unexpected IOException with stream: 2022-09-01 11:21:34.669  INFO 6756 --- [         task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+
+
+# Created at 2022-09-01T11:21:34.975
+Unexpected IOException with stream: 2022-09-01 11:21:34.974  WARN 6756 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2022-09-01T11:21:35.101
+Unexpected IOException with stream: 2022-09-01 11:21:35.100  INFO 6756 --- [         task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2022-09-01T11:21:35.702
+Unexpected IOException with stream: 2022-09-01 11:21:35.702  INFO 6756 --- [         task-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2022-09-01T11:21:35.813
+Unexpected IOException with stream: 2022-09-01 11:21:35.812  INFO 6756 --- [         task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+
+
+# Created at 2022-09-01T11:21:36.942
+Unexpected IOException with stream: 2022-09-01 11:21:36.941  WARN 6756 --- [         task-1] org.hibernate.mapping.RootClass          : HHH000038: Composite-id class does not override equals(): com.tutorial.crud.entity.PedidoDetalleId
+
+
+# Created at 2022-09-01T11:21:36.967
+Unexpected IOException with stream: 2022-09-01 11:21:36.966  WARN 6756 --- [         task-1] org.hibernate.mapping.RootClass          : HHH000039: Composite-id class does not override hashCode(): com.tutorial.crud.entity.PedidoDetalleId
+
+
+# Created at 2022-09-01T11:21:37.372
+Unexpected IOException with stream: 2022-09-01 11:21:37.305  INFO 6756 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@46c662f2, org.springframework.security.web.context.SecurityContextPersistenceFilter@78479f2b, org.springframework.security.web.header.HeaderWriterFilter@6a96d639, org.springframework.web.filter.CorsFilter@4afdfc0f, org.springframework.security.web.authentication.logout.LogoutFilter@6a5dd083, com.tutorial.crud.security.jwt.JwtTokenFilter@7574d4ad, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d9f5fce, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1b0e031b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10b67f54, org.springframework.security.web.session.SessionManagementFilter@3ef3f661, org.springframework.security.web.access.ExceptionTranslationFilter@3ca17943, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@63cf578f]
+
+
+# Created at 2022-09-01T11:21:39.090
+Unexpected IOException with stream: 2022-09-01 11:21:39.089  INFO 6756 --- [           main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+
+
+# Created at 2022-09-01T11:21:39.433
+Unexpected IOException with stream: 2022-09-01 11:21:39.432  INFO 6756 --- [         task-1] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.tutorial.crud.entity.Registro (class must be instantiated by Interceptor)
+
+
+# Created at 2022-09-01T11:21:41.288
+Unexpected IOException with stream: 2022-09-01 11:21:41.288  INFO 6756 --- [         task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2022-09-01T11:21:41.297
+Unexpected IOException with stream: 2022-09-01 11:21:41.296  INFO 6756 --- [         task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2022-09-01T11:21:42.839
+Unexpected IOException with stream: 2022-09-01 11:21:42.838  INFO 6756 --- [           main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+
+
+# Created at 2022-09-01T11:21:42.853
+Unexpected IOException with stream: 2022-09-01 11:21:42.852  INFO 6756 --- [           main] com.tutorial.crud.CrudApplicationTests   : Started CrudApplicationTests in 11.545 seconds (JVM running for 12.763)
+
+
+# Created at 2022-09-01T11:21:42.885
+Unexpected IOException: 5,1,com.tutorial.crud.CrudApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2022-09-01T11:21:43.157
+Unexpected IOException: 6,1,com.tutorial.crud.CrudApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2022-09-01T11:21:43.168
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.tutorial.crud.CrudApplicationTests,null,null,null
+
+

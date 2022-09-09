@@ -1,0 +1,49 @@
+# Created at 2022-08-15T20:34:54.199
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2022-08-15T20:34:54.310
+Unexpected IOException with stream: 2022-08-15 20:34:54.310  INFO 15088 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2a120c88, org.springframework.security.web.context.SecurityContextPersistenceFilter@b7d2d51, org.springframework.security.web.header.HeaderWriterFilter@7604198a, org.springframework.web.filter.CorsFilter@285bf5ac, org.springframework.security.web.authentication.logout.LogoutFilter@45b7c97f, com.tutorial.crud.security.jwt.JwtTokenFilter@2ccc9681, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4c5406b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3ca17943, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3739f3c9, org.springframework.security.web.session.SessionManagementFilter@3214bad, org.springframework.security.web.access.ExceptionTranslationFilter@1c7cd434, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7df4709e]
+
+
+# Created at 2022-08-15T20:34:55.015
+Unexpected IOException with stream: 2022-08-15 20:34:55.013  INFO 15088 --- [         task-1] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.tutorial.crud.entity.Registro (class must be instantiated by Interceptor)
+
+
+# Created at 2022-08-15T20:34:55.148
+Unexpected IOException with stream: 2022-08-15 20:34:55.147  INFO 15088 --- [           main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+
+
+# Created at 2022-08-15T20:34:56.713
+Unexpected IOException with stream: 2022-08-15 20:34:56.713  INFO 15088 --- [         task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2022-08-15T20:34:56.722
+Unexpected IOException with stream: 2022-08-15 20:34:56.722  INFO 15088 --- [         task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2022-08-15T20:34:58.167
+Unexpected IOException with stream: 2022-08-15 20:34:58.166  INFO 15088 --- [           main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+
+
+# Created at 2022-08-15T20:34:58.175
+Unexpected IOException with stream: 2022-08-15 20:34:58.174  INFO 15088 --- [           main] com.tutorial.crud.CrudApplicationTests   : Started CrudApplicationTests in 10.06 seconds (JVM running for 11.247)
+
+
+# Created at 2022-08-15T20:34:58.198
+Unexpected IOException: 5,1,com.tutorial.crud.CrudApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2022-08-15T20:34:58.403
+Unexpected IOException: 6,1,com.tutorial.crud.CrudApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2022-08-15T20:34:58.405
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.tutorial.crud.CrudApplicationTests,null,null,null
+
+
