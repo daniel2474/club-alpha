@@ -1,5 +1,6 @@
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\ClienteExternoRepository.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\TipoMembresia.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\ClienteDomiciliadoService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\MovimientoDTO.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\VentaService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\EjercicioDTO.java
@@ -99,6 +100,7 @@ C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\CAApartadosUsuario.j
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\aopDao\EstatusMembresiaDAOImpl.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\Club.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\HorarioAcceso.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\ClienteDomiciliadoRepository.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\security\service\RolService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\aopDao\MiercolesDAO.java
@@ -304,6 +306,7 @@ C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\RHAprovadosService.
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\Referencia.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\ArrayPrueba2.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\HorarioRepository.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\ClienteDomiciliado.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\RegistroGimnasioService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\CasetaRepository.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\AccesosClub.java
@@ -318,6 +321,7 @@ C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\RegistroGimnasio.jav
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\aopDao\SabadoDAO.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\Body.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\RegistroFacturaGlobalService.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\ClienteReferenciado.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\LunesService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\util\CreateRoles.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\ActividadService.java
