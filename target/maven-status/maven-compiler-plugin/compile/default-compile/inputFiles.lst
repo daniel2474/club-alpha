@@ -89,6 +89,7 @@ C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\DomingoService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\Recibo.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\configuracionRepository.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\ClientePesaje.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\ListaClientesDomiciliados.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\AgendaReservasUsuarioService.java
 C:\Users\Admin\alpha\src\main\java\clases\ClienteBasculaVista.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\JuevesServiceImpl.java
@@ -386,6 +387,7 @@ C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\controller\PruebaController
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\repository\TipoRepository.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\RutinaEjercicioService.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\service\RegistroService.java
+C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\DomiciliacionDTO.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\entity\Antena.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\DatosFiscalesDTO.java
 C:\Users\Admin\alpha\src\main\java\com\tutorial\crud\dto\DiasDTO.java
